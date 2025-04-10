@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11.2889mm" height="11.2889mm"
+ viewBox="0 0 32 32"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M23.0866,8.91339 L23.0866,16 L8.91339,16 L8.91339,8.91339 L23.0866,8.91339"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="0.283465" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,16,11.4646)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M-4.33252,3 L-4.33252,0.0192337 L-4.42999,0.145653 L-4.81607,0.389793 L-4.98682,0.0288086 L-4.63281,-0.203125 L-4.23486,-0.71582 L-3.99316,-0.71582 L-3.99316,3 L-4.33252,3 M0.895508,2.2749 L0.526779,2.84623 L-0.0273819,3.03906 L-0.393593,3.03906 L-0.947754,2.84615 L-1.31396,2.27483 L-1.4751,1.42266 L-1.4751,0.900238 L-1.31396,0.0482635 L-0.947754,-0.522949 L-0.393555,-0.71582 L-0.0273438,-0.71582 L0.526855,-0.522949 L0.895508,0.0482254 L1.0542,0.900391 L1.0542,1.42285 L0.895508,2.2749 M0.651367,0.937622 L0.50946,0.215576 L0.267342,-0.16864 L-0.0901337,-0.293037 L-0.329544,-0.291016 L-0.686256,-0.167038 L-0.928108,0.209702 L-1.06982,0.943764 L-1.06982,1.37154 L-0.926506,2.11644 L-0.685379,2.491 L-0.329773,2.61426 L-0.0910873,2.61426 L0.26696,2.49257 L0.505989,2.11312 L0.651367,1.37231 L0.651367,0.937622 M4.89551,2.2749 L4.52678,2.84623 L3.97262,3.03906 L3.60641,3.03906 L3.05225,2.84615 L2.68604,2.27483 L2.5249,1.42266 L2.5249,0.900238 L2.68604,0.0482635 L3.05225,-0.522949 L3.60645,-0.71582 L3.97266,-0.71582 L4.52686,-0.522949 L4.89551,0.0482254 L5.0542,0.900391 L5.0542,1.42285 L4.89551,2.2749 M4.65137,0.937622 L4.50946,0.215576 L4.26734,-0.16864 L3.90987,-0.293037 L3.67046,-0.291016 L3.31374,-0.167038 L3.07189,0.209702 L2.93018,0.943764 L2.93018,1.37154 L3.07349,2.11644 L3.31462,2.491 L3.67023,2.61426 L3.90891,2.61426 L4.26696,2.49257 L4.50599,2.11312 L4.65137,1.37231 L4.65137,0.937622"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.850394" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M8.91339,6.07874 L23.0866,20.252 M23.0866,6.07874 L8.91339,20.252"/>
+</g>
+</g>
+</svg>
