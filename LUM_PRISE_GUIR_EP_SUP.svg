@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11.2889mm" height="11.2889mm"
+ viewBox="0 0 32 32"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="#232323" stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M21.9914,16 C21.9914,19.309 19.309,21.9914 16,21.9914 C12.691,21.9914 10.0086,19.309 10.0086,16 C10.0086,12.691 12.691,10.0086 16,10.0086 C19.309,10.0086 21.9914,12.691 21.9914,16 "/>
+</g>
+
+<g fill="#ffb500" fill-opacity="0" stroke="#000000" stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M16,16 L11.8541,11.7068 C9.48307,13.9965 9.41712,17.7748 11.7068,20.1459 L16,16"/>
+</g>
+
+<g fill="#ffb500" fill-opacity="0" stroke="#000000" stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M16,16 L20.2246,20.3747 C22.6407,18.0415 22.7079,14.1915 20.3747,11.7754 L16,16"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M8.91339,8.91339 L23.0866,23.0866 M23.0866,8.91339 L8.91339,23.0866"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="0.850394" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M18.126,16 C18.126,17.1741 17.1741,18.126 16,18.126 C14.8259,18.126 13.874,17.1741 13.874,16 C13.874,14.8259 14.8259,13.874 16,13.874 C17.1741,13.874 18.126,14.8259 18.126,16 "/>
+</g>
+</g>
+</svg>
