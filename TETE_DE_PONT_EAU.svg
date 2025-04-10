@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11.2889mm" height="11.2889mm"
+ viewBox="0 0 32 32"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,16,16)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.33333,0,0,1.33333,16,16)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(0.0403697,0,0,0.0403697,6.07874,6.07874)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M353.2,387.62 L133.64,387.62 L168.05,292.67 L181.11,99.22 L305.73,98.03 L318.78,298.6 L353.2,387.62"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(0.0403697,0,0,0.0403697,6.07874,6.07874)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M160.65,374.16 L329.33,374.16 C314.51,347.81 304.22,297.1 298.71,222.97 C294.93,172 294.59,124.42 294.61,107.53 L195.37,107.53 C195.39,124.41 195.05,172 191.27,222.97 C185.76,297.1 175.48,347.81 160.65,374.16 M341.04,386.96 L148.93,386.96 C146.59,386.96 144.48,385.43 143.56,383.06 C142.65,380.68 143.12,377.95 144.74,376.11 C161.49,357.13 173.56,303.81 179.65,221.93 C184.31,159.24 183.69,101.79 183.69,101.22 C183.67,99.5 184.27,97.85 185.37,96.64 C186.46,95.42 187.96,94.74 189.52,94.74 L300.45,94.74 C302.01,94.74 303.51,95.42 304.6,96.64 C305.69,97.86 306.3,99.51 306.28,101.22 C306.28,101.79 305.67,159.32 310.33,222.03 C316.42,303.86 328.48,357.14 345.23,376.11 C346.85,377.95 347.32,380.68 346.41,383.06 C345.49,385.43 343.38,386.96 341.04,386.96 "/>
+</g>
+
+<g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.0403697,0,0,0.0403697,6.07874,6.07874)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M160.65,374.16 L329.33,374.16 C314.51,347.81 304.22,297.1 298.71,222.97 C294.93,172 294.59,124.42 294.61,107.53 L195.37,107.53 C195.39,124.41 195.05,172 191.27,222.97 C185.76,297.1 175.48,347.81 160.65,374.16 M341.04,386.96 L148.93,386.96 C146.59,386.96 144.48,385.43 143.56,383.06 C142.65,380.68 143.12,377.95 144.74,376.11 C161.49,357.13 173.56,303.81 179.65,221.93 C184.31,159.24 183.69,101.79 183.69,101.22 C183.67,99.5 184.27,97.85 185.37,96.64 C186.46,95.42 187.96,94.74 189.52,94.74 L300.45,94.74 C302.01,94.74 303.51,95.42 304.6,96.64 C305.69,97.86 306.3,99.51 306.28,101.22 C306.28,101.79 305.67,159.32 310.33,222.03 C316.42,303.86 328.48,357.14 345.23,376.11 C346.85,377.95 347.32,380.68 346.41,383.06 C345.49,385.43 343.38,386.96 341.04,386.96 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(0.0403697,0,0,0.0403697,6.07874,6.07874)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M146.26,381.47 L341.27,381.47 C324.13,353.74 312.24,300.38 305.87,222.37 C301.5,168.73 301.1,118.66 301.13,100.89 L186.4,100.89 C186.43,118.66 186.03,168.73 181.66,222.37 C175.29,300.38 163.4,353.75 146.26,381.47 M354.81,394.94 L132.72,394.94 C130.01,394.94 127.57,393.33 126.51,390.84 C125.46,388.34 126,385.47 127.88,383.53 C147.24,363.55 161.2,307.45 168.24,221.28 C173.62,155.31 172.91,94.86 172.91,94.25 C172.88,92.44 173.59,90.71 174.85,89.43 C176.11,88.15 177.84,87.43 179.65,87.43 L307.9,87.43 C309.71,87.43 311.43,88.15 312.69,89.43 C313.95,90.71 314.65,92.45 314.63,94.25 C314.63,94.85 313.92,155.39 319.31,221.38 C326.35,307.49 340.3,363.56 359.66,383.52 C361.54,385.46 362.08,388.33 361.03,390.83 C359.97,393.32 357.53,394.93 354.82,394.93 L354.81,394.94"/>
+</g>
+
+<g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.0403697,0,0,0.0403697,6.07874,6.07874)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M146.26,381.47 L341.27,381.47 C324.13,353.74 312.24,300.38 305.87,222.37 C301.5,168.73 301.1,118.66 301.13,100.89 L186.4,100.89 C186.43,118.66 186.03,168.73 181.66,222.37 C175.29,300.38 163.4,353.75 146.26,381.47 M354.81,394.94 L132.72,394.94 C130.01,394.94 127.57,393.33 126.51,390.84 C125.46,388.34 126,385.47 127.88,383.53 C147.24,363.55 161.2,307.45 168.24,221.28 C173.62,155.31 172.91,94.86 172.91,94.25 C172.88,92.44 173.59,90.71 174.85,89.43 C176.11,88.15 177.84,87.43 179.65,87.43 L307.9,87.43 C309.71,87.43 311.43,88.15 312.69,89.43 C313.95,90.71 314.65,92.45 314.63,94.25 C314.63,94.85 313.92,155.39 319.31,221.38 C326.35,307.49 340.3,363.56 359.66,383.52 C361.54,385.46 362.08,388.33 361.03,390.83 C359.97,393.32 357.53,394.93 354.82,394.93 L354.81,394.94"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(0.0403697,0,0,0.0403697,6.07874,6.07874)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M175.44,211.84 L315.75,211.84 L315.75,225.55 L175.44,225.55 L175.44,211.84"/>
+<path vector-effect="none" fill-rule="evenodd" d="M164.89,292.27 L321.02,292.27 L321.02,305.98 L164.89,305.98 L164.89,292.27"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.33333,0,0,1.33333,16,16)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,16,16)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>
