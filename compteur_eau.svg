@@ -6,7 +6,7 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="0.850394" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+<g fill="#ffffff" fill-opacity="100" stroke="#000000" stroke-opacity="1" stroke-width="0.850394" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M20.7622,16 C20.7622,18.6301 18.6301,20.7622 16,20.7622 C13.3699,20.7622 11.2378,18.6301 11.2378,16 C11.2378,13.3699 13.3699,11.2378 16,11.2378 C18.6301,11.2378 20.7622,13.3699 20.7622,16 "/>
