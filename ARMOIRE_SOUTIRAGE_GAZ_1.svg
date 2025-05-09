@@ -6,13 +6,13 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#ffffff" fill-opacity="1" stroke="#f0f000" stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#ffffff" fill-opacity="1" stroke="#FFD700 " stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M23.0866,11.748 L23.0866,18.8346 L8.91339,18.8346 L8.91339,11.748 L23.0866,11.748"/>
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#f0f000" stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+<g fill="#ffffff" fill-opacity="1" stroke="#FFD700 " stroke-opacity="1" stroke-width="1.13386" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M19.1886,15.2642 C19.1886,16.9575 17.8159,18.3301 16.1226,18.3301 C14.4294,18.3301 13.0567,16.9575 13.0567,15.2642 C13.0567,13.5709 14.4294,12.1982 16.1226,12.1982 C17.8159,12.1982 19.1886,13.5709 19.1886,15.2642 "/>
