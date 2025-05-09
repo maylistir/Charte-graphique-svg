@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="11.2889mm" height="11.2889mm"
- viewBox="0 0 32 32"
- xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<svg width="32" height="32" viewBox="6 11 20 7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
 <title>Qt SVG Document</title>
 <desc>Generated with Qt</desc>
 <defs>
@@ -22,10 +20,10 @@ font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="norm
 <path vector-effect="none" fill-rule="evenodd" d="M21.5217,16 L21.0877,18.1493 L19.9044,19.9044 L18.1493,21.0877 L16,21.5217 L13.8507,21.0877 L12.0956,19.9044 L10.9123,18.1493 L10.4783,16 L10.9123,13.8507 L12.0956,12.0956 L13.8507,10.9123 L16,10.4783 L18.1493,10.9123 L19.9044,12.0956 L21.0877,13.8507 L21.5217,16"/>
 </g>
 
-<!-- Lignes verticales ajoutées avec espacement réduit -->
-<line x1="11.5" y1="9" x2="11.5" y2="23" stroke="#f0f000" stroke-width="1" stroke-linecap="square" />
-<line x1="16" y1="9" x2="16" y2="23" stroke="#f0f000" stroke-width="1" stroke-linecap="square" />
-<line x1="20.5" y1="9" x2="20.5" y2="23" stroke="#f0f000" stroke-width="1" stroke-linecap="square" />
+<!-- Lignes verticales ajoutées avec espacement réduit et limité à l'intérieur de l'ellipse -->
+<line x1="11.5" y1="11" x2="11.5" y2="21" stroke="#f0f000" stroke-width="1" stroke-linecap="square" />
+<line x1="16" y1="11" x2="16" y2="21" stroke="#f0f000" stroke-width="1" stroke-linecap="square" />
+<line x1="20.5" y1="11" x2="20.5" y2="21" stroke="#f0f000" stroke-width="1" stroke-linecap="square" />
 
 </g>
 </svg>
